@@ -108,6 +108,7 @@ The backtracking technique can be found under `10. Subsets` [here].
 
 Dynamic programming guides can be found on [topcoder] and the [Back To Back SWE
 YouTube channel].
+Dynamic Programming Patterns: https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
 
 #### Easy:
 
@@ -137,8 +138,6 @@ YouTube channel].
 #### Hard:
 
 1. Longest Valid Parentheses: https://leetcode.com/problems/longest-valid-parentheses/
-
-**Dynamic Programming Patterns: https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
 
 </details>
 
